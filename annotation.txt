@@ -1,0 +1,4 @@
+Here casting data original source:https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product
+Annotate only 12 images from defect using Roboflow universe
+
+git add -f G:/Github_Projects/YOLO_Projects/annotation.txt
